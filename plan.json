@@ -1,0 +1,550 @@
+[
+	{
+      id:'it1', title:"One-Day Itinerary in Old Quebec", desc:"A crafted one-day itinerary to explore the heart of Old Quebec, featuring its iconic streets, historic landmarks, scenic viewpoints, and cultural highlights—all in an easy, walkable route", theme:"History & Heritage", map:"https://www.google.com/maps/d/embed?mid=1wt-aFXvwmn5iQHOKdr33ts289CnqiiY&ehbc=2E312F",
+      morning: [
+		{
+			activity: 1,
+			title: "Start at Château Frontenac",
+			desc: "Begin your day at the iconic Fairmont Le Château Frontenac.",
+			steps: [
+			  "Walk around the exterior for great views",
+			  "Go inside the lobby if you want a quick look",
+			  "Take photos from various angles — it’s stunning from every side"
+			]
+		},
+		{
+		activity: 2,
+		title: "Terrasse Dufferin",
+		desc: "Walk the long wooden boardwalk next to the Château.",
+		steps: [
+		  "Panoramic views of the St. Lawrence River",
+		  "Watch street performers (seasonal)",
+		  "Great morning light and relaxing atmosphere"
+		]
+		},
+		{
+		activity: 3,
+		title: "Governors’ Promenade",
+		desc: "If you want an easy scenic walk, take the Promenade des Gouverneurs built along the cliff.",
+		steps: [
+		  "Located at the far end of Terrasse Dufferin",
+		  "Quiet, forested walkway overlooking the river",
+		  "Leads toward the Plains of Abraham"
+		]
+		},
+		{
+		activity: 4,
+		title: "Plains of Abraham",
+		desc: "Explore the Plains of Abraham, a national historic park.",
+		steps: [
+		  "Walk among large green spaces",
+		  "See historical plaques and cannons",
+		  "Enjoy wide views of the river and skyline"
+		]
+		},
+		{
+		activity: 5,
+		title: "Citadelle of Quebec",
+		desc: "Visit the Citadelle, home of the Royal 22e Régiment.",
+		steps: [
+		  "Join a guided tour (optional)",
+		  "Walk around the fortress area",
+		  "Enjoy panoramic views from the walls"
+		]
+		}
+		],
+
+		lunch: [
+		{
+		activity: 6,
+		title: "Lunch in Upper Town",
+		desc: "Choose a restaurant or terrace on Rue Saint-Louis or Rue Sainte-Anne.",
+		steps: [
+		  "Find a cozy terrace near Château Frontenac",
+		  "Try classic Québec dishes",
+		  "Relax in a historic street atmosphere"
+		]
+		}
+		],
+
+		afternoon: [
+		{
+		activity: 7,
+		title: "Explore Historic Streets",
+		desc: "Wander through the picturesque streets of Upper Town.",
+		steps: [
+		  "Visit Rue du Trésor (outdoor art alley)",
+		  "Walk along Rue Saint-Louis and Rue Saint-Jean",
+		  "Explore quieter streets like Donnacona and Couillard"
+		]
+		},
+		{
+		activity: 8,
+		title: "Notre-Dame de Québec Basilica-Cathedral",
+		desc: "Visit one of the most important churches in North America.",
+		steps: [
+		  "Admire the architecture",
+		  "Explore the interior",
+		  "Enjoy a calm and historic atmosphere"
+		]
+		},
+		{
+		activity: 9,
+		title: "City Hall Area",
+		desc: "See Quebec City's beautiful Hôtel de Ville and surrounding gardens.",
+		steps: [
+		  "Walk through the landscaped area",
+		  "Take photos of the fountain",
+		  "Explore side streets nearby"
+		]
+		},
+		{
+		activity: 10,
+		title: "Walk the Fortifications",
+		desc: "Explore the only fortified city walls north of Mexico.",
+		steps: [
+		  "Access the walls near St-Jean or St-Louis Gate",
+		  "Walk along elevated ramparts",
+		  "Enjoy views of the city and rooftops"
+		]
+		},
+		{
+		activity: 11,
+		title: "Saint-Jean Gate & Rue Saint-Jean",
+		desc: "Enter through the historic gate and explore a lively street.",
+		steps: [
+		  "Walk under Porte Saint-Jean",
+		  "Browse shops and cafés",
+		  "Try local pastries or chocolate shops"
+		]
+		}
+		],
+
+		dinner: [
+		{
+		activity: 12,
+		title: "Dinner in Upper Town",
+		desc: "Choose between casual, romantic, or lively dinner spots.",
+		steps: [
+		  "Rue Saint-Jean for a lively atmosphere",
+		  "Rue Saint-Louis for romantic dining",
+		  "Grande Allée for nightlife and terraces"
+		]
+		}
+		],
+
+		evening: [
+		{
+		activity: 13,
+		title: "Sunset at Terrasse Dufferin",
+		desc: "End the day with a beautiful sunset view over the St. Lawrence.",
+		steps: [
+		  "Watch the golden light hit the river",
+		  "See Château Frontenac illuminated",
+		  "Enjoy street musicians (seasonal)"
+		]
+		},
+		{
+		activity: 14,
+		title: "Evening Walk",
+		desc: "Stroll through Upper Town's atmospheric streets at night.",
+		steps: [
+		  "Walk around Place d’Armes",
+		  "Explore Rue Sainte-Anne and nearby lanes",
+		  "Enjoy the magical lantern-style lighting"
+		]
+		}
+		],
+    },
+	{
+		  "id":"it2",
+		  "title":"One-Day Itinerary in Petit-Champlain",
+		  "desc":"A detailed one-day itinerary to explore the charm of Petit-Champlain, including its narrow streets, boutiques, historic sights, and waterfront views—all in a relaxed, walkable route.",
+		  "theme":"Romantic Old-World Charm",
+		  "map":"https://www.google.com/maps/d/embed?mid=1avKqyy3lNV-xLbmN_IjTf_j7wrlv0n0&ehbc=2E312F",
+
+		  "morning": [
+			{
+			  "activity": 1,
+			  "title": "The Old Port of Quebec",
+			  "desc": "Start your day along the waterfront, where ships, markets, and river views set a peaceful tone.",
+			  "steps": [
+				"Walk along the quays for views of the St. Lawrence River",
+				"Enjoy the calm morning atmosphere and take photos of the marina"
+			  ]
+			},
+    {
+      "activity": 2,
+      "title": "Musée de la civilisation",
+      "desc": "Explore one of Quebec’s most innovative museums, blending history, culture, and immersive exhibits.",
+      "steps": [
+        "Visit permanent and temporary exhibitions",
+        "Discover interactive displays about Quebec's past and present"
+      ]
+    },
+    {
+      "activity": 3,
+      "title": "Quebec City Mural (La Fresque des Québécois)",
+      "desc": "Admire a large trompe-l’œil mural illustrating centuries of Quebec history.",
+      "steps": [
+        "Spot historical figures hidden in the artwork",
+        "Take creative photos blending yourself into the scenes"
+      ]
+    }
+  ],
+
+  "lunch": [
+    {
+      "activity": 4,
+      "title": "Lunch near Place Royale",
+      "desc": "Choose a cozy bistro or café around the historic square.",
+      "steps": [
+        "Try classic Quebec dishes like tourtière, pea soup, or artisanal crepes",
+        "Enjoy the timeless atmosphere of Old Quebec"
+      ]
+    }
+  ],
+
+  "afternoon": [
+    {
+      "activity": 5,
+      "title": "Place Royale",
+      "desc": "Walk through the birthplace of French America and one of the most picturesque areas of Quebec City.",
+      "steps": [
+        "Photograph Notre-Dame-des-Victoires Church",
+        "Explore boutiques, historic details, and cobblestone pathways"
+      ]
+    },
+    {
+      "activity": 6,
+      "title": "Royal Battery",
+      "desc": "Visit this restored 17th-century defensive structure overlooking the river.",
+      "steps": [
+        "Learn about Quebec’s military history",
+        "Take panoramic photos of the St. Lawrence River"
+      ]
+    },
+    {
+      "activity": 7,
+      "title": "Escalier Casse-Cou (Breakneck Stairs)",
+      "desc": "Descend the historic staircase that links Upper and Lower Town.",
+      "steps": [
+        "Pause for photos of Petit-Champlain from above",
+        "Admire the colorful façades and narrow pedestrian streets"
+      ]
+    },
+    {
+      "activity": 8,
+      "title": "Rue du Petit-Champlain",
+      "desc": "Wander through one of North America’s oldest commercial streets.",
+      "steps": [
+        "Browse artisan boutiques and local crafts",
+        "Stop for a pastry or hot chocolate in a street-side café"
+      ]
+    },
+    {
+      "activity": 9,
+      "title": "Funiculaire du Vieux-Québec",
+      "desc": "Ride the funicular for an effortless and scenic trip between Upper and Lower Town.",
+      "steps": [
+        "Enjoy panoramic views during the ascent",
+        "Learn about its 19th-century origins"
+      ]
+    }
+  ],
+
+  "dinner": [
+    {
+      "activity": 10,
+      "title": "Dinner in the Upper Town",
+      "desc": "End your day with a memorable meal in one of Quebec City's charming districts.",
+      "steps": [
+        "Choose Rue Saint-Jean for lively local cuisine",
+        "Choose Rue Saint-Louis for intimate romantic dining",
+        "Choose Grande Allée for energetic terraces and nightlife"
+      ]
+    }
+  ],
+
+ "evening": [
+  {
+    "activity": 11,
+    "title": "Evening Stroll in Upper Town",
+    "desc": "End your day with a relaxing walk through the historic streets of Upper Town.",
+    "steps": [
+      "Stroll along Rue Saint-Jean and Rue Saint-Louis to admire illuminated historic buildings",
+      "Stop at cafés or small terraces for a drink or dessert",
+      "Enjoy the quiet charm of Upper Town at night with views of the old architecture"
+    ]
+  }
+]
+
+},
+{
+  "id":"it3",
+  "title":"One-Day Itinerary in Upper Town",
+  "desc":"A one-day itinerary to explore Quebec City’s Upper Town, featuring its historic architecture, iconic landmarks, and panoramic views.",
+  "theme":"Architecture & Panoramic Views",
+  "map":"https://www.google.com/maps/d/embed?mid=19V2N-7yBGEt6OffpbWTXMn6HMQ4a7w4&ehbc=2E312F",
+
+  "morning": [
+    {
+      "activity": 1,
+      "title": "Fontaine de Tourny",
+      "desc": "Start your day at this beautiful fountain, surrounded by gardens.",
+      "steps": [
+        "Take photos of the fountain and surrounding landscaping",
+        "Enjoy a short stroll around the gardens",
+        "Observe the architecture and nearby historic buildings"
+      ]
+    },
+    {
+      "activity": 2,
+      "title": "Parliament Building",
+      "desc": "Explore the historic Parliament of Quebec and its impressive architecture.",
+      "steps": [
+        "Take a guided tour if available",
+        "Walk around the exterior to admire the architecture",
+        "Learn about Quebec's political history"
+      ]
+    },
+    {
+      "activity": 3,
+      "title": "Observatoire de la Capitale",
+      "desc": "Get panoramic 360° views of Quebec City from the observation deck.",
+      "steps": [
+        "Take photos of the city skyline",
+        "Spot key landmarks from above",
+        "Enjoy the view and take in the city layout"
+      ]
+    }
+  ],
+
+  "lunch": [
+    {
+      "activity": 4,
+      "title": "Lunch on Grande Allée",
+      "desc": "Stop for lunch at one of the many restaurants or bistros on Grande Allée.",
+      "steps": [
+        "Choose a restaurant with terrace seating if possible",
+        "Try classic Quebec dishes or international cuisine",
+        "Enjoy the lively atmosphere of this iconic street"
+      ]
+    }
+  ],
+
+  "afternoon": [
+    {
+      "activity": 5,
+      "title": "Joan of Arc Garden",
+      "desc": "Visit this charming garden honoring Joan of Arc, with sculptures and greenery.",
+      "steps": [
+        "Take a peaceful stroll among the sculptures and flowers",
+        "Snap photos of the historic monuments",
+        "Enjoy views of surrounding streets and architecture"
+      ]
+    },
+    {
+      "activity": 6,
+      "title": "Martello Tower 1",
+      "desc": "Explore this historic military tower overlooking the St. Lawrence River.",
+      "steps": [
+        "Learn about its history and strategic importance",
+        "Take photos of the river and fortifications",
+        "Walk around the grounds and nearby paths"
+      ]
+    },
+    {
+      "activity": 7,
+      "title": "Horloge Solaire",
+      "desc": "Check out the historic solar clock and its surroundings.",
+      "steps": [
+        "Observe the time-telling mechanism and design",
+        "Take photos with the city backdrop",
+        "Learn about its historical and scientific significance"
+      ]
+    },
+    {
+      "activity": 8,
+      "title": "Musée national des beaux-arts du Québec",
+      "desc": "Explore Quebec’s premier art museum, featuring classical and contemporary works.",
+      "steps": [
+        "Visit both permanent and temporary exhibitions",
+        "Take photos of striking artworks and galleries",
+        "Learn about Quebec and international artists"
+      ]
+    }
+  ],
+
+  "dinner": [
+    {
+      "activity": 9,
+      "title": "Dinner on Rue Cartier",
+      "desc": "End your day with a relaxing dinner on this charming street.",
+      "steps": [
+        "Choose a bistro or restaurant serving Quebecois specialties",
+        "Enjoy outdoor seating if the weather permits",
+        "Take a stroll along the street after dining"
+      ]
+    }
+  ],
+
+  "evening": [
+    {
+      "activity": 10,
+      "title": "Evening Stroll on Grande Allée",
+      "desc": "Take a gentle evening walk along the lively Grande Allée.",
+      "steps": [
+        "Admire the illuminated buildings and historic architecture",
+        "Stop for a dessert, coffee, or a drink at a terrace café",
+        "Enjoy the vibrant nightlife or a peaceful promenade"
+      ]
+    }
+  ]
+},
+{
+	id: "it4",
+	title: "One-Day Itinerary in Ile d'Orléans",
+	desc: "A one-day itinerary to discover Île d’Orléans, highlighting its scenic countryside, local farms, artisanal shops, and historic villages.",
+	theme: "Countryside & Local Flavors",
+	map: "https://www.google.com/maps/d/embed?mid=1xdLFiWE2xErBYEw_4QnWCCMMQ4Xk4gQ&ehbc=2E312F",
+	morning: [
+		{
+			activity: 1,
+			title: "Promenade at the Base of Montmorency Falls",
+			desc: "Start your day at Montmorency Falls, enjoying the scenic base promenade.",
+			steps: [
+				"Walk along the paths at the base of the falls",
+				"Take photos of the cascading waters and natural surroundings",
+				"Observe the falls from multiple viewpoints along the trail"
+			]
+		},
+		{
+			activity: 2,
+			title: "Promenade Horatio Walker",
+			desc: "Stroll along this riverside path and enjoy peaceful nature views.",
+			steps: [
+				"Follow the walking trails through wooded areas",
+				"Enjoy views of the St. Lawrence River",
+				"Look out for local birds and wildlife"
+			]
+		},
+		{
+			activity: 3,
+			title: "Quebec City Viewpoint",
+			desc: "Stop at a viewpoint to admire panoramic views of Quebec City across the river.",
+			steps: [
+				"Take photos of the city skyline",
+				"Enjoy a moment of rest and reflection",
+				"Observe landmarks such as Château Frontenac from afar"
+			]
+		}
+	],
+	lunch: [
+		{
+			activity: 4,
+			title: "Lunch at Saint-Laurent Lighthouse Area",
+			desc: "Have a relaxing lunch with views of the lighthouse and river.",
+			steps: [
+				"Choose a local café or bistro nearby",
+				"Try regional dishes like fresh seafood or local pastries",
+				"Enjoy the scenic riverside atmosphere"
+			]
+		}
+	],
+	afternoon: [
+		{
+			activity: 5,
+			title: "Visit Mauvide-Genest Manor",
+			desc: "Explore this historic manor and its beautiful grounds.",
+			steps: [
+				"Take a guided or self-guided tour of the house",
+				"Walk around the gardens and orchard",
+				"Learn about the manor's history and architecture"
+			]
+		},
+		{
+			activity: 6,
+			title: "Explore La Seigneurie de l'Île d'Orléans",
+			desc: "Discover this historical site showcasing the island’s colonial heritage.",
+			steps: [
+				"Walk through the grounds and enjoy river views",
+				"Visit the interpretive displays about local history",
+				"Take photos of the traditional architecture"
+			]
+		},
+		{
+			activity: 7,
+			title: "Observation Tower",
+			desc: "Climb the tower for sweeping views of the island and river.",
+			steps: [
+				"Enjoy panoramic views from the top",
+				"Take photos of the island’s landscapes and villages",
+				"Spot farms, orchards, and vineyards in the distance"
+			]
+		},
+		{
+			activity: 8,
+			title: "Parc Maritime de Saint-Laurent",
+			desc: "Walk through this maritime park and enjoy riverfront scenery.",
+			steps: [
+				"Stroll along waterfront trails",
+				"Observe boats, wildlife, and scenic river views",
+				"Relax at picnic spots or benches along the park"
+			]
+		},
+		{
+			activity: 9,
+			title: "Visit Saint-François Village",
+			desc: "Explore one of the island’s charming villages with historic homes and shops.",
+			steps: [
+				"Walk along cobbled streets and the waterfront",
+				"Browse artisan shops and galleries",
+				"Take photos of historic churches and houses"
+			]
+		},
+		{
+			activity: 10,
+			title: "Maison Drouin",
+			desc: "Tour this preserved historic home for a glimpse of colonial life.",
+			steps: [
+				"Explore the house and period furnishings",
+				"Learn about 17th-century life on the island",
+				"Take a short walk in the surrounding gardens"
+			]
+		},
+		{
+			activity: 11,
+			title: "Visit Sainte-Famille Village",
+			desc: "Discover the village and its local shops, farms, and artisanal products.",
+			steps: [
+				"Walk along village streets and visit local boutiques",
+				"Try fresh local produce or cider",
+				"Take scenic photos of the surrounding countryside"
+			]
+		}
+	],
+	dinner: [
+		{
+			activity: 12,
+			title: "Dinner at Espace Félix Leclerc",
+			desc: "Enjoy a meal in a cultural and historic setting honoring Quebec's famous musician.",
+			steps: [
+				"Choose a restaurant or café nearby",
+				"Taste regional specialties and local flavors",
+				"Relax and enjoy the ambiance of the evening"
+			]
+		}
+	],
+	evening: [
+		{
+			activity: 13,
+			title: "Evening Stroll on the Island",
+			desc: "End your day with a gentle walk along the island's scenic paths.",
+			steps: [
+				"Enjoy sunset views over the St. Lawrence River",
+				"Take in the peaceful countryside atmosphere",
+				"Optional: stop at a viewpoint for final photos of the island"
+			]
+		}
+	]
